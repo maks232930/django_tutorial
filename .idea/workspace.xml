@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a257463-2bb9-4ec5-a142-3fad83e6c8a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regestration_and_authentication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/regestration_and_authentication/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584878861176</updated>
-      <workItem from="1584878918984" duration="11805000" />
+      <workItem from="1584878918984" duration="11937000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1584900079284</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584905998501</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="login_required">
+      <created>1584906922260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584906922260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,13 +105,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login" />
     <MESSAGE value="logout" />
-    <option name="LAST_COMMIT_MESSAGE" value="logout" />
+    <MESSAGE value="login_required" />
+    <option name="LAST_COMMIT_MESSAGE" value="login_required" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1584906855162">
+    <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1584906921640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="174" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584906855162" />
+    <state x="661" y="174" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584906921640" />
     <state width="928" height="282" key="GridCell.Tab.0.bottom" timestamp="1584906000874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
