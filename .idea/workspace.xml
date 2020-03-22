@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a257463-2bb9-4ec5-a142-3fad83e6c8a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regestration_and_authentication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/regestration_and_authentication/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/regestration_and_authentication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/regestration_and_authentication/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/regestration_and_authentication/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/regestration_and_authentication/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="regestration_authentication.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -72,14 +73,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584878861176</updated>
-      <workItem from="1584878918984" duration="7487000" />
+      <workItem from="1584878918984" duration="10948000" />
     </task>
+    <task id="LOCAL-00001" summary="login">
+      <created>1584900079284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584900079284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login" />
+    <option name="LAST_COMMIT_MESSAGE" value="login" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="112" y="118" key="CommitChangelistDialog2" timestamp="1584900078618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="112" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584900078618" />
     <state x="143" y="169" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584881379923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

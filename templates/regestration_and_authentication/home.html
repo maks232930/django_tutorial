@@ -5,6 +5,7 @@
     <title>Дом</title>
 </head>
 <body>
-
+<span>Hello, {{ request.user }}</span>
+<span><a href="{% url 'logout' %}">Выйти</a> </span>
 </body>
 </html>
