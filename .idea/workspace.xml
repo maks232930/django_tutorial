@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a257463-2bb9-4ec5-a142-3fad83e6c8a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/password_reset_done.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/password_reset_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/password_reset_sent.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regestration_and_authentication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/regestration_and_authentication/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regestration_authentication/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/regestration_authentication/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/regestration_and_authentication/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/regestration_and_authentication/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -25,17 +32,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZU1Sx4bMqVrRCIoQA7nwAdCb1v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\django\regestration_authentication\templates\regestration_and_authentication" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="regestration_authentication" type="Python.DjangoServer" factoryName="Django server">
@@ -64,7 +80,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584878861176</updated>
-      <workItem from="1584878918984" duration="11937000" />
+      <workItem from="1584878918984" duration="13543000" />
+      <workItem from="1585071421847" duration="3710000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1584900079284</created>
@@ -103,35 +120,56 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="login" />
     <MESSAGE value="logout" />
     <MESSAGE value="login_required" />
     <option name="LAST_COMMIT_MESSAGE" value="login_required" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585071437801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585071437801" />
     <state x="661" y="174" key="CommitChangelistDialog2" timestamp="1584906921640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="174" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584906921640" />
-    <state width="928" height="282" key="GridCell.Tab.0.bottom" timestamp="1584906000874">
+    <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1584908077320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="928" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584906000874" />
-    <state width="928" height="282" key="GridCell.Tab.0.center" timestamp="1584906000874">
+    <state x="267" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584908077320" />
+    <state x="319" y="417" key="Github.ShareDialog" timestamp="1584907629291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="928" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584906000874" />
-    <state width="928" height="282" key="GridCell.Tab.0.left" timestamp="1584906000874">
+    <state x="319" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584907629291" />
+    <state width="916" height="284" key="GridCell.Tab.0.bottom" timestamp="1585073338311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="928" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584906000874" />
-    <state width="928" height="282" key="GridCell.Tab.0.right" timestamp="1584906000874">
+    <state width="916" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585073338311" />
+    <state width="916" height="284" key="GridCell.Tab.0.center" timestamp="1585073338311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="928" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584906000874" />
+    <state width="916" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585073338311" />
+    <state width="916" height="284" key="GridCell.Tab.0.left" timestamp="1585073338311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585073338311" />
+    <state width="916" height="284" key="GridCell.Tab.0.right" timestamp="1585073338311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585073338311" />
     <state x="143" y="169" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584881379923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="143" y="169" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584881379923" />
+    <state x="317" y="314" key="svn.repositoryBrowser" timestamp="1584908097685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="317" y="314" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1584908097685" />
+    <state x="295" y="298" key="svn4idea.import.options" timestamp="1584908095800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="298" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1584908095800" />
   </component>
 </project>
